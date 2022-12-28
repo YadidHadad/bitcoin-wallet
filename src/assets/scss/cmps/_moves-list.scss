@@ -1,0 +1,31 @@
+.moves-list {
+    & * {
+        font-size: 0.8rem;
+        font-style: lighter;
+    }
+
+    background-color: $clr2;
+    border-radius: 1rem;
+    border: 1px solid $clr1;
+    color: $clr1;
+    padding: 0.5rem;
+    height: 150px;
+    width: 250px;
+
+    .title {
+        background-color: $clr1;
+        color: $clr2;
+        text-align: center;
+        border-radius: 0.5rem 0.5rem 0 0;
+        font-size: 0.8rem;
+    }
+    ul {
+        margin: 0;
+        padding: 0;
+        height: 100px;
+        overflow-y: scroll;
+        li {
+            list-style: none;
+        }
+    }
+}

@@ -1,0 +1,26 @@
+.charts-container {
+    margin-top: 2rem;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    // overflow: auto;
+
+    section {
+        width: 100%;
+    }
+}
+
+.recharts-tooltip-wrapper {
+    background: transparent;
+    .recharts-default-tooltip {
+        background-color: black;
+    }
+}
+
+.chart {
+    height: 100%;
+    width: 100%;
+}
+
+.recharts-wrapper {
+}

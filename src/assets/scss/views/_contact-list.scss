@@ -1,0 +1,18 @@
+.contact-list {
+    // grid-auto-rows: minmax(60px, auto);
+    height: calc(100vh - 400px);
+    overflow-y: scroll;
+}
+
+.contact-list-container {
+    height: 100%;
+
+    .btn-add {
+        height: 2rem;
+        padding: 0.5rem;
+        font-size: 1rem;
+        color: white;
+        // border: 1px solid $clr1;
+        background-color: $clr1;
+    }
+}

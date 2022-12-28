@@ -1,0 +1,16 @@
+.app-footer {
+    background-color: $clr1;
+    color: white;
+
+    svg {
+        height: 3rem;
+        width: 3rem;
+        border-radius: 50%;
+        color: white;
+    }
+
+    button {
+        border: none;
+        background-color: transparent;
+    }
+}

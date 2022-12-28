@@ -1,0 +1,149 @@
+[
+    {
+        "_id": "638f30e436d0392801708bd5",
+        "fullname": "Phoebe Bouffe",
+        "password": "1234",
+        "isAdmin": false,
+        "imgUrl": "https://res.cloudinary.com/boards/image/upload/v1670327433/user2_twpngh.jpg",
+        "email": "phoebe",
+        "phone": "+1 (911) 475-2312",
+        "balance": 0
+    },
+    {
+        "_id": "6390dfd6f66d9762b2800e29",
+        "fullname": "Robin Woods",
+        "email": "bluebird535",
+        "password": "deadpool",
+        "imgUrl": "https://randomuser.me/api/portraits/women/24.jpg",
+        "phone": "+1 (911) 475-2312",
+        "balance": 0
+    },
+    {
+        "_id": "6390dfd6f66d9762b2800e2b",
+        "fullname": "Brandon Bailey",
+        "email": "bigpeacock932",
+        "password": "mollie",
+        "imgUrl": "https://randomuser.me/api/portraits/men/55.jpg",
+        "phone": "+1 (911) 475-2312",
+        "balance": 0
+    },
+    {
+        "_id": "6390dfd6f66d9762b2800e2f",
+        "fullname": "Bernard Miller",
+        "email": "whiteostrich566",
+        "password": "lolo",
+        "imgUrl": "https://randomuser.me/api/portraits/men/90.jpg",
+        "phone": "+1 (911) 475-2312",
+        "balance": 0
+    },
+    {
+        "_id": "6390dfd6f66d9762b2800e31",
+        "fullname": "Yvonne Carroll",
+        "email": "organicdog552",
+        "password": "vantage",
+        "imgUrl": "https://randomuser.me/api/portraits/women/41.jpg",
+        "phone": "+1 (911) 475-2312",
+        "balance": 0
+    },
+    {
+        "_id": "6390dfd6f66d9762b2800e2c",
+        "fullname": "Peter Hicks",
+        "email": "brownbutterfly691",
+        "password": "rrrrrr",
+        "imgUrl": "https://randomuser.me/api/portraits/men/80.jpg",
+        "phone": "+1 (911) 475-2312",
+        "balance": 0
+    },
+    {
+        "_id": "6390dfd6f66d9762b2800e2a",
+        "fullname": "Daniel Hughes",
+        "email": "smallduck899",
+        "password": "music1",
+        "imgUrl": "https://randomuser.me/api/portraits/men/28.jpg",
+        "phone": "+1 (911) 475-2312",
+        "balance": 0
+    },
+    {
+        "_id": "6390dfd6f66d9762b2800e30",
+        "fullname": "Jonathan Peck",
+        "email": "lazypeacock761",
+        "password": "proxy",
+        "imgUrl": "https://randomuser.me/api/portraits/men/27.jpg",
+        "phone": "+1 (911) 475-2312",
+        "balance": 0
+    },
+    {
+        "_id": "6390dfd6f66d9762b2800e32",
+        "fullname": "Rick Bailey",
+        "email": "silvermouse583",
+        "password": "dana",
+        "imgUrl": "https://randomuser.me/api/portraits/men/83.jpg",
+        "phone": "+1 (911) 475-2312",
+        "balance": 0
+    },
+    {
+        "_id": "6390dfd6f66d9762b2800e36",
+        "email": "tomchick30@gmail.com",
+        "fullname": "Tom Bechar",
+        "isAdmin": false,
+        "imgUrl": "",
+        "phone": "+1 (911) 475-2312",
+        "balance": 0
+    },
+    {
+        "_id": "6390dfd6f66d9762b2800e39",
+        "email": "ben@ben.com",
+        "password": "$2b$10$dGXjg8dQFmsfSsFOTQTrVe3C/mejU76U2sysGTSo.uu2/aZf4YS7a",
+        "phone": "+1 (911) 475-2312",
+        "fullname": "Ben Hemo",
+        "isAdmin": false,
+        "balance": 0
+    },
+    {
+        "_id": "6390dfd6f66d9762b2800e3a",
+        "email": "nagar",
+        "password": "$2b$10$IZK8MM3xuUzIQAPcexiSEOTpLCnxczxSUDSWPEWKxjDgVJuOn49WG",
+        "fullname": "Kai Nagar",
+        "isAdmin": false,
+        "phone": "+1 (911) 475-2312",
+        "balance": 0
+    },
+    {
+        "_id": "6390dfd6f66d9762b2800e2d",
+        "fullname": "Jane Hill",
+        "email": "yellowladybug184",
+        "password": "herewego",
+        "imgUrl": "https://randomuser.me/api/portraits/women/18.jpg",
+        "phone": "+1 (911) 475-2312",
+        "balance": 0
+    },
+    {
+        "_id": "6390dfd6f66d9762b2800e2e",
+        "fullname": "Ashley Carroll",
+        "email": "redswan501",
+        "password": "grizzly",
+        "imgUrl": "https://randomuser.me/api/portraits/women/21.jpg",
+        "phone": "+1 (911) 475-2312",
+        "balance": 0
+    },
+    {
+        "_id": "6390dfd6f66d9762b2800e33",
+        "email": "demo",
+        "password": "$2b$10$BmTfeaX0onLYIgx7n5A4Ee1fhKQjs4J8OTyF6cv73GvylqzJwXE1O",
+        "fullname": "Darla Kanievsky",
+        "isAdmin": false,
+        "phone": "+1 (911) 475-2312",
+        "balance": 0
+    },
+    {
+        "_id": "6390dfd6f66d9762b2800e34",
+        "email": "osher@gmail.com",
+        "password": "$2b$10$1urGSEL74IjHnFe8edAWP.AEdcpdmp1XBSuB.6zBSb6ShVwIgq3B6",
+        "fullname": "Osher Ganon",
+        "isAdmin": false,
+        "imgUrl": "",
+        "phone": "+1 (911) 475-2312",
+        "balance": 0,
+        "balance": 0
+    }
+]
