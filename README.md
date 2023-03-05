@@ -12,8 +12,8 @@
 
 <p>Enjoy the following scenes from the app and its responsive views:</p>
 
-<img src="https://res.cloudinary.com/dnznyz6om/image/upload/v1678020356/mobile-black_4_w6kv7r.png"/>
-<img src="https://res.cloudinary.com/dnznyz6om/image/upload/v1678020355/mobile-black_gemabs.png"/>
-<img src="https://res.cloudinary.com/dnznyz6om/image/upload/v1678020355/mobile-black_1_ooq4rk.png"/>
-<img src="https://res.cloudinary.com/dnznyz6om/image/upload/v1678020355/mobile-black_2_yimj4d.png"/>
-<img src="https://res.cloudinary.com/dnznyz6om/image/upload/v1678020356/mobile-black_3_mzqiv1.png"/>
+<img src="https://res.cloudinary.com/dnznyz6om/image/upload/v1678020356/mobile-black_4_w6kv7r.png" width=100/>
+<img src="https://res.cloudinary.com/dnznyz6om/image/upload/v1678020355/mobile-black_gemabs.png" width=100/>
+<img src="https://res.cloudinary.com/dnznyz6om/image/upload/v1678020355/mobile-black_1_ooq4rk.png" width=100/>
+<img src="https://res.cloudinary.com/dnznyz6om/image/upload/v1678020355/mobile-black_2_yimj4d.png" width=100/>
+<img src="https://res.cloudinary.com/dnznyz6om/image/upload/v1678020356/mobile-black_3_mzqiv1.png" width=100/>
