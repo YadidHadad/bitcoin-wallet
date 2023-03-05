@@ -1,70 +1,19 @@
-# Getting Started with Create React App
+﻿<p>Deployed at: https://yadidhadad.github.io/bitcoin-wallet/#/</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1>Pocrypto for the futire of crypto!</h1>
+<h2>Want to join the buzz> purchase, handle and store crypto coins in on click? </h2>
+<h2>Pocrypto is now here and free for use! </h2>
+<h2>Foloow the chnages of rates with autoupdated charts!</h2>
+<h2>Store all your contacts in one app!</h2>
+<h2>Keep it up with your balance and more!</h2>
 
-## Available Scripts
+<p>Pocrypto is a platform that allows yout to keep up with the future using API to show current cryoto rates, with REACT frontend, SCSS and JS</p>
 
-In the project directory, you can run:
 
-### `npm start`
+<p>Enjoy the following scenes from the app and its responsive views:</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img src="https://res.cloudinary.com/dnznyz6om/image/upload/v1678020072/localhost_3000_bitcoin-wallet_Phone_ef3qe1.png"/>
+<img src="https://res.cloudinary.com/dnznyz6om/image/upload/v1678020072/localhost_3000_bitcoin-wallet_Phone_ef3qe1.png"/>
+<img src="https://res.cloudinary.com/dnznyz6om/image/upload/v1678020072/yadidhadad.github.io_bitcoin-wallet__Phone_2_gqww25.png"/>
+<img src="https://res.cloudinary.com/dnznyz6om/image/upload/v1678020072/yadidhadad.github.io_bitcoin-wallet__Phone_8_nlfjqi.png"/>
+<img src="https://res.cloudinary.com/dnznyz6om/image/upload/v1678020072/yadidhadad.github.io_bitcoin-wallet__Phone_9_byxgda.png"/>
