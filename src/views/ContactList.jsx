@@ -64,7 +64,7 @@ class _ContactList extends Component {
                         onChangeFilter={this.onChangeFilter}
                         filterBy={filterBy}
                     />
-                    <Link to="/contact/edit" className='btn-add flex row gap-rem auto-center'>Add contact<FaUserPlus /></Link>
+                    <Link to="/contact/edit" className='btn-add flex row gap-rem auto-center'><FaUserPlus /></Link>
                 </section>
                 <section className="contact-list flex row wrap gap-rem align-start justify-center ">
                     {contacts.map(contact =>

@@ -53,12 +53,17 @@ button {
 input {
     font-family: inherit;
     text-align: inherit;
+    background-color: transparent;
+    color: white;
+    font-size: 1rem;
+    border: none;
+    border-block-end: 2px solid $clr1;
 }
 
 // MAC like scrollbar
 ::-webkit-scrollbar {
     width: 8px;
-    background-color: rgba(0, 0, 0, 0);
+    background-color: $clr4;
     -webkit-border-radius: 100px;
 }
 

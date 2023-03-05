@@ -5,6 +5,10 @@
     .contact-header {
         width: 100%;
         position: relative;
+
+        & > section {
+            overflow-x: hidden;
+        }
     }
 
     .edit-contact {

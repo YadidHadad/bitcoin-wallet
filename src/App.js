@@ -40,7 +40,7 @@ function App() {
             <Route path='/signup' component={SignupPage} />
             <Route path="/contact" component={ContactList} />
             <PrivateRoute path="/chart" component={Charts} />
-            <PrivateRoute path="/" component={Home} />
+            <PrivateRoute path="" component={Home} />
           </Switch>
 
         </main>
