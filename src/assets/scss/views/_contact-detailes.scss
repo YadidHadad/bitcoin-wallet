@@ -21,7 +21,7 @@
             width: 1.5rem;
         }
         &:hover {
-            color: white;
+            color: $clr5;
             font-weight: bold;
             text-decoration: underline;
             box-shadow: 0px 0px 0px 5px rgba($clr1, 0.3);
@@ -43,7 +43,7 @@
         border: none;
         height: 2rem;
         &:hover {
-            color: white;
+            color: $clr5;
         }
     }
 
@@ -62,10 +62,10 @@
         box-shadow: none;
         border: 1px solid $clr2;
         text-align: center;
-        color: white;
+        color: $clr5;
 
         &::placeholder {
-            color: white;
+            color: $clr5;
             text-align: center;
         }
     }

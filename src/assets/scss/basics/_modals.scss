@@ -32,13 +32,13 @@
     animation: slide-in-out 2.5s linear;
     transform: translateY(150%);
     opacity: 1;
-    font-size: .875rem;
-    background-color: rgba(255, 255, 255, .85);
+    font-size: 0.875rem;
+    background-color: rgba(255, 255, 255, 0.85);
     background-clip: padding-box;
-    border: 1px solid rgba(0, 0, 0, .1);
-    box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, .1);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(10px);
-    border-radius: .25rem;
+    border-radius: 0.25rem;
     z-index: 5;
 
     &.success {
@@ -75,13 +75,13 @@
     }
 
     .modal-content {
-        background: white;
+        background: $clr5;
         max-width: 90%;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
         position: relative;
         animation: scalein 0.3s ease-in-out;
 
-        &>* {
+        & > * {
             max-width: 100%;
         }
 
@@ -120,7 +120,7 @@
     button.simple-button {
         border: 1px solid #b0b0b0;
         margin: 0 5px;
-        background: white;
+        background: $clr5;
         /* border: 0; */
         box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
         padding: 8px 22px;

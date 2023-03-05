@@ -1,12 +1,12 @@
 .app-footer {
     background-color: $clr1;
-    color: white;
+    color: $clr5;
 
     svg {
         height: 3rem;
         width: 3rem;
         border-radius: 50%;
-        color: white;
+        color: $clr5;
     }
 
     button {
